@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 8d92ed99ce9198042ae527ef8957bef1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stick-figure-03_arm_left_hand
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1158
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b40abff9796e54cb98a1bee9432d6f
+      internalID: -2141663744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_arm_left_middle
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1158
+        width: 109
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe1bca60152c1d46a4bcc3273e9dc52
+      internalID: 1693125266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_arm_left_upper
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1157
+        width: 149
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5a5192706e9f5499b6012b4adeaaf9
+      internalID: -1917403498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_torso
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 841
+        width: 21
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845fc0f4e4b0dcf46a0e5034634bce2c
+      internalID: -729671842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_arm_right_upper
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1118
+        width: 149
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a265d1cc353914545b4632e756f5e83e
+      internalID: 702868109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_arm_right_middle
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1119
+        width: 109
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ee8a9ff2901b841b68a46cad886d27
+      internalID: 2144963045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_arm_right_hand
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1119
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed6d94aba249984181cd5f7e1c3332e
+      internalID: -654276497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_head
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 919
+        width: 176
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866ae421b904d28468d1f77d23450b6a
+      internalID: -900388529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_leg_left_foot
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1069
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65634ac0f470e1345869ce71d82bf42d
+      internalID: -1908788107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_leg_left_upper
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 879
+        width: 73
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52236128d9b26764f811ab84ef16cdca
+      internalID: 2069355289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_leg_right_upper
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 879
+        width: 73
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65a4b688e1a19b489584279d90817f6
+      internalID: -1526339205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_leg_right_foot
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1069
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac127146ce174348a318629a9af778e
+      internalID: 2137243239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_leg_left_middle
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 879
+        width: 17
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf97d459de7d8bc4ba40147a406d363c
+      internalID: 319227273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_leg_right_middle
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 879
+        width: 17
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37db2b832f3f6e42bdba3e07ae7d33d
+      internalID: -1635316121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_hair_style_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 633
+        width: 403
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee63d0fc03f6924cb87705ede5b0eda
+      internalID: 1373897338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_hair_style_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 221
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee8a4b04dc362642b0dd26d18014dff
+      internalID: 1422730176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_hair_style_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 278
+        width: 282
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc39ddd8b75a9944ba0d90e83002f34
+      internalID: -658688098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_hair_style_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 299
+        width: 224
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dc72720df847546ae007fbc5ae9110
+      internalID: 1459278166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_hair_style_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 142
+        width: 235
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174fea460a98e0841ba1b958cdf5f340
+      internalID: -1679862028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_hair_style_8
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 6
+        width: 236
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495aeae514a6d724f854728fd976dd42
+      internalID: 421591595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_hair_style_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 89
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7139feb7272b64fb3769e51519f6bf
+      internalID: -1253924421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_hair_style_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 211
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c40373ca12b3f242a487c1c3290a1fa
+      internalID: -1236733330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick-figure-03_hair_style_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 733
+        width: 183
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d039fa90e8f35834390cda6158ef99b1
+      internalID: 49623501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a8bb36768f0536b469fe198e1caa3490
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      stick-figure-03_leg_right_foot: 2137243239
+      stick-figure-03_29: 1300063920
+      stick-figure-03_hair_style_8: 421591595
+      stick-figure-03_leg_right_upper: -1526339205
+      stick-figure-03_hair_style_2: 1422730176
+      stick-figure-03_arm_left_middle: 1693125266
+      stick-figure-03_25: 314024333
+      stick-figure-03_18: 1111425863
+      stick-figure-03_head: -900388529
+      stick-figure-03_39: -1470658315
+      stick-figure-03_hair_style_4: -658688098
+      stick-figure-03_leg_right_middle: -1635316121
+      stick-figure-03_23: -1825724405
+      stick-figure-03_leg_left_foot: -1908788107
+      stick-figure-03_arm_left_hand: -2141663744
+      stick-figure-03_30: -895691666
+      stick-figure-03_32: -1568114612
+      stick-figure-03_torso: -729671842
+      stick-figure-03_hair_style_6: -1253924421
+      stick-figure-03_leg_left_upper: 2069355289
+      stick-figure-03_31: -237882668
+      stick-figure-03_33: 1170403992
+      stick-figure-03_hair_style_0: 49623501
+      stick-figure-03_24: -1793414117
+      stick-figure-03_28: 1032092268
+      stick-figure-03_arm_right_hand: -654276497
+      stick-figure-03_leg_left_middle: 319227273
+      stick-figure-03_hair_style_1: 1373897338
+      stick-figure-03_arm_left_upper: -1917403498
+      stick-figure-03_arm_right_middle: 2144963045
+      stick-figure-03_17: -2061586316
+      stick-figure-03_arm_right_upper: 702868109
+      stick-figure-03_38: -1535322967
+      stick-figure-03_45: 1505481833
+      stick-figure-03_27: 158059665
+      stick-figure-03_42: 1442704347
+      stick-figure-03_22: -170697268
+      stick-figure-03_hair_style_3: 1459278166
+      stick-figure-03_20: 1041225005
+      stick-figure-03_hair_style_5: -1679862028
+      stick-figure-03_16: -1985819627
+      stick-figure-03_21: -1618246671
+      stick-figure-03_15: 1091676987
+      stick-figure-03_26: -247938448
+      stick-figure-03_hair_style_7: -1236733330
+      stick-figure-03_34: 1962445917
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
